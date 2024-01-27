@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2c2d8a74851c1348a21fcb17b00077c, type: 3}
+  m_Name: 02_FruitsEyes
+  m_EditorClassIdentifier: 
+  name: Looking Fruits
+  price: 1
+  objectPrefabs:
+  - {fileID: 4091401119984135131, guid: 7d0f38eb041ba3c4aad43c844d78e4b7, type: 3}
+  - {fileID: 4825705779037878747, guid: a4a65c0ed4a363f49808e77578b63e6c, type: 3}
+  - {fileID: 4825705779037878747, guid: 955395aa60b25b946a9f9ebd248b0d9c, type: 3}
+  - {fileID: 4825705779037878747, guid: 138a7bab80dc0ac4396f462609afb35e, type: 3}
+  - {fileID: 4825705779037878747, guid: 0608ad9cf597aef43a38b0bf83cc17e8, type: 3}
+  - {fileID: 4825705779037878747, guid: ba5313896b0e6974ab587baafbcb6624, type: 3}
+  - {fileID: 4825705779037878747, guid: 7aefe77759276a245afd3b54c0f00e80, type: 3}
+  - {fileID: 4825705779037878747, guid: 9eba7dd9986d9274fb8a0580d0f546c0, type: 3}
+  - {fileID: 4825705779037878747, guid: 41d0fcd2121d28e4695be952089abac2, type: 3}
+  spawnablePrefabs:
+  - {fileID: 4091401119984135131, guid: 7d0f38eb041ba3c4aad43c844d78e4b7, type: 3}
+  - {fileID: 4825705779037878747, guid: a4a65c0ed4a363f49808e77578b63e6c, type: 3}
+  - {fileID: 4825705779037878747, guid: 955395aa60b25b946a9f9ebd248b0d9c, type: 3}
+  - {fileID: 4825705779037878747, guid: 138a7bab80dc0ac4396f462609afb35e, type: 3}

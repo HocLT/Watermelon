@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2c2d8a74851c1348a21fcb17b00077c, type: 3}
+  m_Name: 00_Fruits
+  m_EditorClassIdentifier: 
+  name: Fruits
+  objectPrefabs:
+  - {fileID: 4091401119984135131, guid: b5158bf5f6eb18a42b601a67df7b91cb, type: 3}
+  - {fileID: 4825705779037878747, guid: 5ab313b85b1dff34e940ef72d29736b3, type: 3}
+  - {fileID: 4825705779037878747, guid: e5374f2874aec834587023748cde4ca0, type: 3}
+  - {fileID: 4825705779037878747, guid: 503481cb05ef0784a972735fd00ab1a7, type: 3}
+  - {fileID: 4825705779037878747, guid: 2f006b7e9aecc2c45811d4a620d11f76, type: 3}
+  - {fileID: 4825705779037878747, guid: 3834a74f2c0a79646afc6e9858af0edb, type: 3}
+  - {fileID: 4825705779037878747, guid: bb54f85231d0df54b947a15886520c3c, type: 3}
+  - {fileID: 4825705779037878747, guid: a5bc3b7896d68964e879f1e8a3d65584, type: 3}
+  - {fileID: 4825705779037878747, guid: d8e03755f4b3bdd4399f4e96a8cb7be8, type: 3}
+  spawnablePrefabs:
+  - {fileID: 4091401119984135131, guid: b5158bf5f6eb18a42b601a67df7b91cb, type: 3}
+  - {fileID: 4825705779037878747, guid: 5ab313b85b1dff34e940ef72d29736b3, type: 3}
+  - {fileID: 4825705779037878747, guid: e5374f2874aec834587023748cde4ca0, type: 3}
+  - {fileID: 4825705779037878747, guid: 503481cb05ef0784a972735fd00ab1a7, type: 3}
